@@ -15,7 +15,7 @@
 
 I try to continuously learn, improve my skills and enrich my knowledge with diverse trainings and courses such as for example Software Testing Introduction at EPAM Training Center, where I had a chance to work with Virtualization and Linux. At the university I specialized in Computational Linguistics and got some programming experience in Python as well as the basics of Databases and SQL. 
 
-I started my professional path as a Sales Development Representative in IT companies. Due to my prior work experience I was able to gain extensive knowledge about various IT concepts and develop my soft skills (practice English, written and oral communication, time management, teamwork). Then I got hired by EPAM Systems as a Service Desk Technician. I was assigned to a position of 1st Line/Help Desk Specialist on a SAP project that focused on DevOps enterprise solutions. During my work I got a chance to familiarize myself with various CI/CD tools such as for example Jenkins, Azure Pipelines, etc. Within our team I acted as a Technical Lead, Knowledge Base Manager and Mentor.
+I started my professional path as a Sales Development Representative in IT companies. Due to my prior work experience I was able to gain extensive knowledge about various IT concepts and develop my soft skills (practice English, written and oral communication, time management, teamwork). Then I got hired by EPAM Systems as a Service Desk Technician. I am assigned to a position of 1st Line/Help Desk Specialist on a SAP project that focused on DevOps enterprise solutions. During my work I got a chance to familiarize myself with various CI/CD tools such as for example Jenkins, Azure Pipelines, etc. Within our team I act as a Technical Lead, Knowledge Base Manager and Mentor.
 
 ## Skills
 * HTML
@@ -66,5 +66,5 @@ Year       | University, Course or Training
 2019       |   Forte Group, Sales in IT
 
 ## Languages 
-1. English B2 ( I work in an international team, communicate with foreign stakeholders, users and clients from different countries. I use English on an everyday basis: writing emails, online calls, chats.)
+1. English B2 (I work in an international team, communicate with foreign stakeholders, users and clients from different countries. I use English on an everyday basis: writing emails, online calls, chats.)
 2. German 
